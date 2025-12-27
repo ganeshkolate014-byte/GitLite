@@ -1,0 +1,5 @@
+{
+  "name": "GitLite Mobile",
+  "description": "A mobile-first, dark-mode GitHub client using Firebase Auth and GitHub API for managing repositories and files on the go.",
+  "requestFramePermissions": []
+}
